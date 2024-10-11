@@ -16,29 +16,29 @@ I'm Aidan Corcoran, a **DevOps Engineer** passionate about automation, cloud inf
 ## Coding Languages
 | Language      | Proficiency   | Description                                            |
 |---------------|---------------|--------------------------------------------------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40"/> C | Intermediate | Systems programming, memory management basics         |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/> Python | Advanced     | Automation scripts, web apps, data analysis           |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40"/> Go | Intermediate  | Microservices, concurrency, efficient backend systems |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40"/> C | Advanced | Systems programming, memory management basics         |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40"/> Go | Advanced  | Microservices, concurrency, efficient backend systems |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/> Python | Intermediate   | Automation scripts, web apps, data analysis           |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40"/> Java | Intermediate  | OOP, large-scale web applications                    |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/> JavaScript | Advanced     | Web development, front-end frameworks (React, Node.js)|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/> JavaScript | Intermediate     | Web development, front-end frameworks (React, Node.js)|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="40"/> Ruby | Intermediate  | Full-stack development using Ruby on Rails            |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40"/> HTML/CSS | Advanced      | UI design, responsive web pages, web standards        |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40"/> HTML/CSS | Novice      | UI design, responsive web pages, web standards        |
 
 ## Tools
 | Tool          | Proficiency   | Description                                             |
 |---------------|---------------|---------------------------------------------------------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40"/> Azure | Advanced     | Cloud infrastructure, DevOps pipelines               |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40"/> GCP | Intermediate  | Cloud services, hosting, scaling                      |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40"/> GCP | Advanced  | Cloud services, hosting, scaling                      |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40"/> Terraform | Advanced    | Infrastructure as code, cloud resource provisioning   |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40"/> Docker | Advanced      | Containerization, microservices                       |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40"/> Kubernetes | Intermediate | Container orchestration, scaling applications         |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/> MongoDB | Advanced     | NoSQL database management, data modeling              |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40"/> PostgreSQL | Advanced     | Relational database management, data querying         |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/> MongoDB | Intermediate     | NoSQL database management, data modeling              |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40"/> PostgreSQL | Intermediate     | Relational database management, data querying         |
 
 ## Frameworks
 | Framework     | Proficiency   | Description                                             |
 |---------------|---------------|---------------------------------------------------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40"/> React.js | Advanced     | Dynamic web applications, reusable components         |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40"/> React.js | Intermediate     | Dynamic web applications, reusable components         |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40"/> Express.js | Intermediate | Backend web development                               |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" alt="Rails" width="40"/> Ruby on Rails | Intermediate | Full-stack web application development                |
 
