@@ -14,6 +14,7 @@ I'm Aidan Corcoran, a **DevOps Engineer** passionate about automation, cloud inf
 # Technical Skills
 
 ## Coding Languages
+<div align="center">
 | Language      | Proficiency   | Description                                            |
 |---------------|---------------|--------------------------------------------------------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40"/> C | Intermediate | Systems programming, memory management basics         |
@@ -23,8 +24,10 @@ I'm Aidan Corcoran, a **DevOps Engineer** passionate about automation, cloud inf
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/> JavaScript | Advanced     | Web development, front-end frameworks (React, Node.js)|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="40"/> Ruby | Intermediate  | Full-stack development using Ruby on Rails            |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40"/> HTML/CSS | Advanced      | UI design, responsive web pages, web standards        |
+</div>
 
 ## Tools
+<div align="center">
 | Tool          | Proficiency   | Description                                             |
 |---------------|---------------|---------------------------------------------------------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40"/> Azure | Advanced     | Cloud infrastructure, DevOps pipelines               |
@@ -34,16 +37,20 @@ I'm Aidan Corcoran, a **DevOps Engineer** passionate about automation, cloud inf
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40"/> Kubernetes | Intermediate | Container orchestration, scaling applications         |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/> MongoDB | Advanced     | NoSQL database management, data modeling              |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40"/> PostgreSQL | Advanced     | Relational database management, data querying         |
+</div>
 
 ## Frameworks
+<div align="center">
 | Framework     | Proficiency   | Description                                             |
 |---------------|---------------|---------------------------------------------------------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40"/> React.js | Advanced     | Dynamic web applications, reusable components         |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40"/> Express.js | Intermediate | Backend web development                               |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" alt="Rails" width="40"/> Ruby on Rails | Intermediate | Full-stack web application development                |
+</div>
 
 ---
 
 # GitHub Stats
-
+<div align="center">
 ![Aiden's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aidancorcoran&show_icons=true&theme=radical)
+</div>
